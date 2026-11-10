@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 2 184 37" role="img" aria-label="mono.jobs">
+  <path fill="white" fill-rule="evenodd" d="M 0 30 L 0 12 L 5 12 L 5 14 Q 7 11 11 11 Q 15 11 17 14 Q 20 11 24 11 Q 30 11 30 18 L 30 30 L 25 30 L 25 19 Q 25 16 22 16 Q 18 16 18 20 L 18 30 L 13 30 L 13 19 Q 13 16 10 16 Q 5 16 5 20 L 5 30 Z"/>
+  <path fill="white" fill-rule="evenodd" d="M 43 11 Q 53 11 53 21 Q 53 31 43 31 Q 33 31 33 21 Q 33 11 43 11 Z M 43 16 Q 38 16 38 21 Q 38 26 43 26 Q 48 26 48 21 Q 48 16 43 16 Z"/>
+  <path fill="white" fill-rule="evenodd" d="M 56 30 L 56 12 L 61 12 L 61 14 Q 64 11 68 11 Q 75 11 75 18 L 75 30 L 70 30 L 70 19 Q 70 16 66 16 Q 61 16 61 20 L 61 30 Z"/>
+  <path fill="white" fill-rule="evenodd" d="M 88 11 Q 98 11 98 21 Q 98 31 88 31 Q 78 31 78 21 Q 78 11 88 11 Z M 88 16 Q 83 16 83 21 Q 83 26 88 26 Q 93 26 93 21 Q 93 16 88 16 Z"/>
+  <path fill="#ff5a5f" fill-rule="evenodd" d="M 112 12 L 117 12 L 117 30 Q 117 38 109 38 L 106 38 L 106 33 L 109 33 Q 112 33 112 30 Z"/>
+  <path fill="#ff5a5f" fill-rule="evenodd" d="M 131 11 Q 141 11 141 21 Q 141 31 131 31 Q 121 31 121 21 Q 121 11 131 11 Z M 131 16 Q 126 16 126 21 Q 126 26 131 26 Q 136 26 136 21 Q 136 16 131 16 Z"/>
+  <path fill="#ff5a5f" fill-rule="evenodd" d="M 144 4 L 149 4 L 149 14 Q 152 11 156 11 Q 164 11 164 21 Q 164 31 156 31 Q 152 31 149 28 L 149 30 L 144 30 Z M 154 16 Q 149 16 149 21 Q 149 26 154 26 Q 159 26 159 21 Q 159 16 154 16 Z"/>
+  <path fill="#ff5a5f" fill-rule="evenodd" d="M 182 14 L 180 18 Q 177 15 173 15 Q 171 15 171 17 Q 171 18 175 19 Q 183 20 183 25 Q 183 31 175 31 Q 169 31 165 28 L 168 24 Q 171 27 175 27 Q 178 27 178 25 Q 178 24 173 23 Q 166 22 166 17 Q 166 11 174 11 Q 179 11 182 14 Z"/>
+  <circle cx="105" cy="27.5" r="2.9" fill="#ff5a5f"/>
+  <circle cx="114.5" cy="6.5" r="2.75" fill="#ff5a5f"/>
+</svg>
